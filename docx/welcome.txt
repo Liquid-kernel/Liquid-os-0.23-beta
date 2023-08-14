@@ -1,0 +1,4 @@
+welcome to Liquid-os!!!
+
+;copyright (C) 2021-2023 Liquid-os
+;特别感谢b站up主：min0911_、xp用户123、yywd123和菱角os的帮助
